@@ -1,0 +1,29 @@
+fn main() {
+    var x = 255;
+    var a = [1,2,3];
+    >
+    <
+    >=
+    <=
+    >>
+    <<
+    + ++
+    - --
+    if (x == 1) {
+        // do something
+    } if (x != 0) {
+        var y = 500;
+    } else
+        var z;
+    }
+    if (true == false ) {?}
+    if (x / 2 == 0) {} // comment here
+    return 0;
+
+    /*
+    this is not
+    a token
+    return;
+    */
+}
+// asdf
